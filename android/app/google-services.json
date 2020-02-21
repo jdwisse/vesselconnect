@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "43761831571",
+    "firebase_url": "https://vesselconnect.firebaseio.com",
+    "project_id": "vesselconnect",
+    "storage_bucket": "vesselconnect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43761831571:android:ecc13a52f9e5fc15804766",
+        "android_client_info": {
+          "package_name": "com.vesselconnect.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43761831571-ek52uagt5s3v1osh7de482jc5bo22l4c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgdz5Dly6wMwGyhqZDEbOOH5YJ3n-z21o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43761831571-ek52uagt5s3v1osh7de482jc5bo22l4c.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "43761831571-ll64bj7omq881goipgjug2mmh21f81t4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.vesselconnect.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,28 @@
+{
+  "app_bar": {
+    "title": "Welkom bij Vesselconnect"
+  },
+  "button": {
+    "cancel": "Cancelar",
+    "change_language": "Cambiar idioma",
+    "get_datepicker": "Selecteer Data"
+  },
+  "language": {
+    "name": {
+      "en": "Inglés",
+      "nl": "Nederlands"
+    },
+    "selected_message": "El idioma seleccionado actualmente es {language}",
+    "selection": {
+      "message": "Por favor seleccione un idioma de la lista",
+      "title": "Selección de idioma"
+    }
+  },
+  "plural": {
+    "demo": {
+      "0": "Por favor, comience a presionar el botón 'más'.",
+      "1": "Has presionado el botón una vez.",
+      "else": "Ha presionado el botón {{value}} veces."
+    }
+  }
+}

@@ -1,0 +1,29 @@
+name: vesselconnect
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.1.0 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+  flutter_translate: ^1.5.7
+  cupertino_icons: ^0.1.2
+  date_range_picker: ^1.0.5
+  location: ^2.4.0
+  firebase_core: ^0.4.4
+  firebase_auth: ^0.15.4
+  cloud_firestore: ^0.13.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - lib/assets/i18n/
